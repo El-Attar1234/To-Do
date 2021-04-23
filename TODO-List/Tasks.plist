@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Studing</string>
+		<key>description</key>
+		<string>you should study</string>
+		<key>priority</key>
+		<string>High</string>
+		<key>date</key>
+		<string>5-4-2020</string>
+		<key>reminder</key>
+		<string>6-4-2020</string>
+		<key>file</key>
+		<string>//////</string>
+		<key>status</key>
+		<string>TO DO</string>
+	</dict>
+</array>
+</plist>
